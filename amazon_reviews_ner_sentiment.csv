@@ -1,0 +1,11 @@
+review,entities,sentiment,sentiment_score,review_length
+I love my new Apple iPhone 14 Pro Max! It's super fast and the camera is amazing.,"[('Apple', 'ORG')]",Positive,0.9215,17
+"Terrible experience with Samsung Galaxy S22, battery life is awful.","[('Samsung Galaxy S22', 'ORG')]",Negative,-0.7269,10
+"Great sound quality from Bose QuietComfort 45 headphones, would buy again!","[('QuietComfort 45', 'PRODUCT')]",Positive,0.6588,11
+"The Sony WH-1000XM5 headphones are overpriced, but noise cancelling is top-notch.","[('Sony', 'ORG')]",Negative,-0.296,11
+Logitech MX Master 3 mouse is super comfortable and very responsive.,"[('Logitech', 'ORG'), ('MX', 'PRODUCT')]",Positive,0.8748,11
+"Absolutely hate this Xiaomi Redmi Note 12, freezes all the time!",[],Negative,-0.6581,11
+Amazon Kindle Paperwhite is perfect for reading in sunlight.,"[('Amazon Kindle Paperwhite', 'ORG')]",Positive,0.6597,9
+Horrible experience with Dell XPS 15 laptop. Very buggy.,"[('Dell XPS', 'ORG')]",Negative,-0.5423,9
+Sony PlayStation 5 gives an amazing gaming experience!,"[('Sony', 'ORG'), ('PlayStation 5', 'PRODUCT')]",Positive,0.6239,8
+Canon EOS R6 camera is great for professional photography.,"[('EOS', 'ORG'), ('R6', 'PRODUCT')]",Positive,0.6249,9
