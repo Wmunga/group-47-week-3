@@ -4,6 +4,11 @@
 
 This project demonstrates mastery of key AI development tools—**TensorFlow**, **PyTorch**, **Scikit-learn**, and **spaCy**—through theoretical exposition, practical implementation, and ethical reflection. The assignment is structured to meet academic and industry standards in machine learning and responsible AI deployment.
 
+
+## TO view the project online
+https://nbviewer.org/github/Wmunga/group-47-week-3/blob/main/Text%20Classifier.ipynb
+
+
 ---
 
 ## 📚 Project Overview
